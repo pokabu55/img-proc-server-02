@@ -41,3 +41,14 @@
 ## flet
 * [ここ](https://qiita.com/NasuPanda/items/48849d7f925784d6b6a0)を見た
 * が、こっちままだ試せてない
+
+# その他
+ちょっと大変だったので、メモします。
+* git を ラズパイで使うには
+ * githubの設定で、ラズパイで設定した公開鍵をgithubにコピーする必要がある
+ * このあたりの話は、以下を参照とした。キーのクリップボードへのコピー方法もね。
+ * [ここ](https://qiita.com/shizuma/items/2b2f873a0034839e47ce) と [ここ](https://qiita.com/Kzno/items/6f2fa98256bdffb0fd43)
+ 
+* VSCODEで、リモートにSSHで入って、開発する方法
+ * [ここ](https://tec.tecotec.co.jp/entry/2021/12/11/000000)を見た
+ 
