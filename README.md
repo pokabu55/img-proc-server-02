@@ -31,7 +31,7 @@
 * [ここ](https://www.fabshop.jp/webserver-apache/)を見てインストール
 * 実行も問題なかった
 
-## streamlet
+## streamlit
 * [ここ](https://hitori-sekai.com/python/error-streamlit-install/)を見た
 * ラズパイだと、0.62.0 じゃないと動かないって書いてあった
 * 確かに、最新を入れたら起動しなかった
